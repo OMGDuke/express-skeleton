@@ -1,0 +1,17 @@
+{
+  "name": "express-skeleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OMGDuke/express-skeleton.git",
+  "author": "Alex Roberton alex@omgduke.com",
+  "license": "MIT",
+  "scripts": {
+    "dev": "./node_modules/nodemon/bin/nodemon.js server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
